@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemant yadav</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **laravel,node js,Javascript,Mysql,Mongodb**
+- 🌱 I’m currently learning **laravel, node js, Javascript, Mysql, Mongodb**
 
 - 📫 How to reach me **hemantyadav4141@gmail.com**
 
